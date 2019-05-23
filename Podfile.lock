@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - IQKeyboardManager (6.2.1)
+  - Nuke (6.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage (~> 3.3)
+  - IQKeyboardManager
+  - Nuke (~> 6.0)
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  IQKeyboardManager: 964638372b4a61892cc74fdfa6fd26de8c9464a2
+  Nuke: bf5d58b2d95ff15cb170c231fe6002d706be77e1
+
+PODFILE CHECKSUM: 3e80963cfe95edf48143255f9402baca22dbcfcf
+
+COCOAPODS: 1.4.0
